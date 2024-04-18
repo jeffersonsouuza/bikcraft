@@ -10,7 +10,11 @@
 @import "./home/parceiros.css";
 @import "./home/depoimento.css";
 
-@import "./utilidades/componentes.css";
 @import "./bicicletas/bicicletas-lista.css";
+@import "./bicicletas/bicicletas.css";
+
+@import "./utilidades/componentes.css";
+
 @import "./seguros/seguros.css";
+
 @import "./termos/termos.css";
