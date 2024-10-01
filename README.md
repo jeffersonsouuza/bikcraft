@@ -1,8 +1,14 @@
 # Projeto Bikcraft
 
+<p align="center">
+  <img src="img/bikcraft-lp.png" alt="Landing Page" width="500" height="300">
+</p>
+
+Deploy: https://jeffersonsouuza.github.io/bikcraft
+
 ## Descrição
 
-O Bikcraft é um site fictício de uma empresa de venda de bicicletas. O projeto foi criado com o objetivo de aplicar os conhecimentos adquiridos no curso de HTML e CSS, utilizando boas práticas de desenvolvimento web.
+O Bikcraft é um site fictício de uma empresa de venda de bicicletas. O projeto foi criado com o objetivo de aplicar os conhecimentos adquiridos de HTML e CSS, utilizando boas práticas de desenvolvimento web.
 
 ## Tecnologias Utilizadas
 
